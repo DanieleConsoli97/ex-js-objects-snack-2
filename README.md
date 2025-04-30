@@ -65,6 +65,7 @@ const thirdBurger = structuredClone(hamburger);
 - Quanti oggetti sono stati creati in memoria durante l'esecuzione di questo codice?
 
 ## 🏆 Code Question 4
+
 ```js
 const chef = {
     name: "Chef Hyur",
